@@ -15,5 +15,5 @@ When(/^I press "(.*?)"$/) do |button|
 end
 
 Then(/^the same home page is loaded$/) do
-  page.should have_content("ImageSpace")  
+  page.should have_content("EventPro")  
 end

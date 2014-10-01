@@ -1,5 +1,5 @@
 ### README
-This is the skeleton for image hosting and editing app called ImageSpace. You can name your project anything you want.
+This is the skeleton for image hosting and editing app called EventPro. You can name your project anything you want.
 
 To continue your project on top of this, clone this code and do following.
 
